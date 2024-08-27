@@ -1,0 +1,9 @@
+[submodule "external/sshash"]
+	path = external/sshash
+	url = https://github.com/jermp/sshash
+[submodule "external/ggcat"]
+	path = external/ggcat
+	url = https://github.com/algbio/ggcat
+[submodule "external/muset"]
+	path = external/muset
+	url = https://github.com/CamilaDuitama/muset
